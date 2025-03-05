@@ -19,7 +19,7 @@ Turning "Hello World" into something bigger. With better use of data and technol
 ## What I'm Working On
 
 ### 🚀 Chitral Skills Academy
-A startup dedicated to bridging the skills gap in technology and providing hands-on training in AI, Data Science, and more. We're on a mission to empower the next generation of tech leaders.
+A startup dedicated to bridging the skills gap in technology and providing hands-on training in early childhood teaching and technology, including web development, AI, data science, and more. We're on a mission to empower the next generation of tech leaders.
 
 ---
 
@@ -28,7 +28,7 @@ A startup dedicated to bridging the skills gap in technology and providing hands
 - **Artificial Intelligence**: Building intelligent systems that can learn and adapt.
 - **Data Science**: Analyzing data to uncover hidden insights and drive decision-making.
 - **Entrepreneurship**: Turning innovative ideas into impactful products.
-- **Machine Learning**: Developing models that can predict and automate tasks.
+- **Machine Learning**: Developing models that predict and automate tasks.
 - **Programming**: Writing clean and efficient code in various languages.
 - **Web Development**: Crafting responsive and dynamic web applications.
 
