@@ -66,9 +66,9 @@ A startup dedicated to bridging the skills gap in technology and providing hands
 
 Let's connect and collaborate! I'm always open to discussing new projects, ideas, or opportunities.
 
-- **LinkedIn**: [Mubashir Ullah](#)
-- **Twitter**: [@mubashirullah](#)
-- **Email**: mubashirullah@example.com
+- **LinkedIn**: [Mubashir Ullah](#https://www.linkedin.com/in/mubashir-ullah/)
+- **Twitter**: [@mubashirullah](#https://www.x.com/in/mubyonx/)
+- **Email**: mubashirullah0@gmail.com
 
 ---
 
