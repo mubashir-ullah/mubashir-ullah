@@ -37,7 +37,7 @@ A startup dedicated to bridging the skills gap in technology and providing hands
 ## Tech Stack
 
 **Languages & Frameworks**:
-- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
+- **MERN Stack**: MongoDB, Express.js, React.js, Node.js, Next JS
 - **Python**
 - **HTML, CSS**
 - **PHP**
