@@ -19,7 +19,7 @@ Turning "Hello World" into something bigger. With better use of data and technol
 ## What I'm Working On
 
 ### 🚀 Chitral Skills Academy
-A startup dedicated to bridging the skills gap in technology and providing hands-on training in Early Childhood Teacher Training and Tech like Web Development, AI, Data Science, and more. We're on a mission to empower the next generation of tech leaders.
+A startup dedicated to bridging the skills gap in technology and providing hands-on training in AI, Data Science, and more. We're on a mission to empower the next generation of tech leaders.
 
 ---
 
@@ -31,6 +31,34 @@ A startup dedicated to bridging the skills gap in technology and providing hands
 - **Machine Learning**: Developing models that can predict and automate tasks.
 - **Programming**: Writing clean and efficient code in various languages.
 - **Web Development**: Crafting responsive and dynamic web applications.
+
+---
+
+## Tech Stack
+
+**Languages & Frameworks**:
+- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
+- **Python**
+- **HTML, CSS**
+- **PHP**
+- **SQL, MySQL**
+- **C++**
+- **Java**
+
+**Databases**:
+- **MongoDB**
+- **SupraBase**
+
+**SEO**:
+- **Technical SEO**
+- **Local SEO**
+- **Content SEO**
+
+**Tools**:
+- **Docker**
+- **Notion**
+- **VS Code**
+- **GIT & GitHub**
 
 ---
 
