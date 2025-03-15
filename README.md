@@ -47,7 +47,7 @@ A startup dedicated to bridging the skills gap in technology and providing hands
 
 **Databases**:
 - **MongoDB**
-- **SupraBase**
+- **SupaBase**
 
 **SEO**:
 - **Technical SEO**
@@ -56,9 +56,10 @@ A startup dedicated to bridging the skills gap in technology and providing hands
 
 **Tools**:
 - **Docker**
-- **Notion**
 - **VS Code**
 - **GIT & GitHub**
+- **Notion**
+
 
 ---
 
