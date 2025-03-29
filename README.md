@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mubashir Ullah
 
 🎓 **Final Year BSCS Student**  
-🚀 **Learning about AI & Data Science 
+🚀 **Learning about AI & Data Science**
 💡 **Entrepreneur** - Founder of [Chitral Skills Academy](#)  
 
 ---
