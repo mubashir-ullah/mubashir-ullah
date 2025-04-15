@@ -2,7 +2,7 @@
 
 🎓 **Final Year BSCS Student**  
 🚀 **Learning about AI & Data Science**
-💡 **Entrepreneur** - Founder of [Chitral Skills Academy](#)**
+💡 **Entrepreneur** - Founder of [Chitral Skills Academy](#)
 
 ---
 
