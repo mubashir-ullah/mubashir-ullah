@@ -1,34 +1,25 @@
 # Hi there! 👋 I'm Mubashir Ullah
 
 🎓 **Final Year BSCS Student**  
-🚀 **Learning about AI & Data Science**
-💡 **Entrepreneur** - Founder of [Chitral Skills Academy](#)
+🚀 **Learning about AI & SaaS Development**
 
 ---
 
 ## About Me
 
-I'm Mubashir Ullah, a passionate computer science student in my final year. My journey in tech revolves around the fascinating world of Artificial Intelligence and Data Science. I love building innovative products that leverage AI to solve real-world problems.
+I'm Mubashir Ullah, a passionate computer science student in my final year. My journey in tech revolves around the fascinating world of Artificial Intelligence and Web App Development. I love building innovative products that leverage AI to solve real-world problems.
 
 ### My Mission
 
 Turning "Hello World" into something bigger. With better use of data and technology, we can unlock endless possibilities and create solutions that truly make a difference.
 
----
-
-## What I'm Working On
-
-### 🚀 Chitral Skills Academy
-A startup dedicated to bridging the skills gap in technology and providing hands-on training in early childhood teaching and technology, including web development, AI, data science, and more. We're on a mission to empower the next generation of tech leaders.
-
----
+--
 
 ## Skills & Interests
 
 - **Artificial Intelligence**: Building AI powered products.
-- **Data Science**: Analyzing data to uncover hidden insights and drive decision-making.
 - **Entrepreneurship**: Turning innovative ideas into impactful products.
-- **Machine Learning**: Developing models to solve a real-life problem.
+- **Software Developement**: Developing softwares that can solve a real-life problem.
 - **Programming**: Writing clean and efficient code in various languages.
 - **Web Development**: Crafting responsive and dynamic web applications.
 
