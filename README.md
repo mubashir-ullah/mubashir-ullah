@@ -13,7 +13,7 @@ I'm Mubashir Ullah, a passionate computer science student in my final year. My j
 
 Turning "Hello World" into something bigger. With better use of data and technology, we can unlock endless possibilities and create solutions that truly make a difference.
 
---
+---
 
 ## Skills & Interests
 
