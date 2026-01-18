@@ -59,7 +59,7 @@ Turning "Hello World" into something bigger. With better use of data and technol
 Let's connect and collaborate! I'm always open to discussing new projects, ideas, or opportunities.
 
 - **LinkedIn**: [Mubashir Ullah](https://www.linkedin.com/in/mubashir-ullah/)
-- **Twitter**: [@mubyonx](https://www.x.com/in/mubyonx/)
+- **Twitter**: [@mubyonx](https://www.x.com/in/mubyverse/)
 - **Email**: mubashirullah0@gmail.com
 
 ---
