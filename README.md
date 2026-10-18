@@ -13,7 +13,7 @@
 
 ---
 
-Founder, [Chitral Skills Academy](https://chitralskillsacademy.com) — bringing tech skills to one of Pakistan's most remote regions.
+Founder, [Chitral Skills Academy](https://chitralskillsacademy.com) — bringing skills development to one of Pakistan's most remote regions.
 
 Building:
 - 🏆 [Certify.App](https://usecertify.app) — certificate management SaaS
