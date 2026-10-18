@@ -21,5 +21,3 @@ Building:
 - 🔗 [UML Diagram Studio](https://umldiagram.app) — open-source AI UML generator
 
 `JavaScript · React · Node · Python · Django · MongoDB · SQL`
-
-<p align="center"><sub>from Chitral to the cloud ⚡</sub></p>
